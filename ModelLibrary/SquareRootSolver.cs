@@ -1,7 +1,6 @@
 ﻿using System;
-using ModelLibrary;
 
-namespace SquareRootSolver
+namespace ModelLibrary
 {
     public enum Method
     {
